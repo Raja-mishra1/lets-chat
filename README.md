@@ -1,3 +1,8 @@
+![alt text](https://github.com/Raja-mishra1/lets-chat/blob/main/src/Screenshot%20from%202021-02-03%2000-15-41.png)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
